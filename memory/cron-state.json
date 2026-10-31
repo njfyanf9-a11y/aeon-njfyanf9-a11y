@@ -77,12 +77,12 @@
   },
   "heartbeat": {
     "last_dispatch": "2026-10-31T08:52:48Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-10-30T20:05:34Z",
-    "total_runs": 3,
+    "last_status": "failed",
+    "last_failed": "2026-10-31T08:53:14Z",
+    "total_runs": 4,
     "total_successes": 0,
-    "total_failures": 3,
-    "consecutive_failures": 3,
+    "total_failures": 4,
+    "consecutive_failures": 4,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   }
