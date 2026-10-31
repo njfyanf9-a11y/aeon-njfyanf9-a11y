@@ -54,8 +54,8 @@
     "last_dispatch": "2026-10-31T18:51:38Z"
   },
   "fleet-control": {
-    "last_dispatch": "2026-10-31T14:51:04Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-10-31T21:57:17Z",
+    "last_status": "dispatched",
     "last_failed": "2026-10-31T14:51:29Z",
     "total_runs": 5,
     "total_successes": 0,
