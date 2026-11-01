@@ -1,6 +1,6 @@
 {
   "auto-merge": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-10-31T14:51:23Z",
     "total_runs": 5,
     "total_successes": 0,
@@ -8,7 +8,7 @@
     "consecutive_failures": 5,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-10-31T14:51:04Z"
+    "last_dispatch": "2026-11-01T18:37:29Z"
   },
   "auto-workflow": {
     "last_status": "failed",
