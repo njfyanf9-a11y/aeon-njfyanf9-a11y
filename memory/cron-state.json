@@ -43,7 +43,7 @@
     "last_dispatch": "2026-11-02T18:21:43Z"
   },
   "spawn-instance": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-07T14:07:13Z",
     "total_runs": 27,
     "total_successes": 0,
@@ -51,11 +51,11 @@
     "consecutive_failures": 27,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-07T14:06:51Z"
+    "last_dispatch": "2026-11-07T22:18:02Z"
   },
   "fleet-control": {
-    "last_dispatch": "2026-11-07T14:06:51Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-07T22:18:02Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-07T14:07:16Z",
     "total_runs": 15,
     "total_successes": 0,
