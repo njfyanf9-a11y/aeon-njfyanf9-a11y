@@ -43,7 +43,7 @@
     "last_dispatch": "2026-11-09T19:43:37Z"
   },
   "spawn-instance": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-11T23:28:38Z",
     "total_runs": 40,
     "total_successes": 0,
@@ -51,11 +51,11 @@
     "consecutive_failures": 40,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-11T23:28:10Z"
+    "last_dispatch": "2026-11-12T12:21:12Z"
   },
   "fleet-control": {
-    "last_dispatch": "2026-11-11T17:13:33Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-12T12:21:12Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-11T17:14:05Z",
     "total_runs": 24,
     "total_successes": 0,
@@ -76,8 +76,8 @@
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
   "heartbeat": {
-    "last_dispatch": "2026-11-11T09:17:42Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-12T12:21:12Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-11T09:18:09Z",
     "total_runs": 15,
     "total_successes": 0,
@@ -109,13 +109,14 @@
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
   "aeon-doctor": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-12T10:05:23Z",
     "total_runs": 1,
     "total_successes": 0,
     "total_failures": 1,
     "consecutive_failures": 1,
     "success_rate": 0,
-    "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
+    "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
+    "last_dispatch": "2026-11-12T12:21:12Z"
   }
 }
