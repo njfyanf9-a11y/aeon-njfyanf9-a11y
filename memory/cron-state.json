@@ -107,5 +107,15 @@
     "consecutive_failures": 4,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
+  },
+  "aeon-doctor": {
+    "last_status": "failed",
+    "last_failed": "2026-11-12T10:05:23Z",
+    "total_runs": 1,
+    "total_successes": 0,
+    "total_failures": 1,
+    "consecutive_failures": 1,
+    "success_rate": 0,
+    "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   }
 }
