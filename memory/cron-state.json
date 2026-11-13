@@ -1,6 +1,6 @@
 {
   "auto-merge": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-12T20:08:14Z",
     "total_runs": 17,
     "total_successes": 0,
@@ -8,7 +8,7 @@
     "consecutive_failures": 17,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-12T20:07:53Z"
+    "last_dispatch": "2026-11-13T15:41:45Z"
   },
   "auto-workflow": {
     "last_status": "failed",
@@ -43,7 +43,7 @@
     "last_dispatch": "2026-11-09T19:43:37Z"
   },
   "spawn-instance": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-13T07:44:18Z",
     "total_runs": 43,
     "total_successes": 0,
@@ -51,11 +51,11 @@
     "consecutive_failures": 43,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-13T07:43:56Z"
+    "last_dispatch": "2026-11-13T15:41:45Z"
   },
   "fleet-control": {
-    "last_dispatch": "2026-11-12T20:07:53Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-13T15:41:45Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-12T20:08:34Z",
     "total_runs": 26,
     "total_successes": 0,
@@ -65,8 +65,8 @@
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
   "narrative-convergence": {
-    "last_dispatch": "2026-11-12T20:07:53Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-13T15:41:45Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-12T20:08:27Z",
     "total_runs": 17,
     "total_successes": 0,
@@ -76,8 +76,8 @@
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
   "heartbeat": {
-    "last_dispatch": "2026-11-12T12:21:12Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-13T15:41:45Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-12T12:21:41Z",
     "total_runs": 16,
     "total_successes": 0,
