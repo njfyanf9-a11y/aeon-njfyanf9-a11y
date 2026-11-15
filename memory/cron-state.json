@@ -1,6 +1,6 @@
 {
   "auto-merge": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-14T14:56:01Z",
     "total_runs": 19,
     "total_successes": 0,
@@ -8,7 +8,7 @@
     "consecutive_failures": 19,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-14T14:55:41Z"
+    "last_dispatch": "2026-11-15T16:45:45Z"
   },
   "auto-workflow": {
     "last_status": "failed",
@@ -43,7 +43,7 @@
     "last_dispatch": "2026-11-09T19:43:37Z"
   },
   "spawn-instance": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-15T09:57:57Z",
     "total_runs": 49,
     "total_successes": 0,
@@ -51,11 +51,11 @@
     "consecutive_failures": 49,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-15T09:57:36Z"
+    "last_dispatch": "2026-11-15T16:45:45Z"
   },
   "fleet-control": {
-    "last_dispatch": "2026-11-15T09:57:36Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-15T16:45:45Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-15T09:58:09Z",
     "total_runs": 30,
     "total_successes": 0,
@@ -65,8 +65,8 @@
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
   "narrative-convergence": {
-    "last_dispatch": "2026-11-14T14:55:41Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-15T16:45:45Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-14T14:56:20Z",
     "total_runs": 19,
     "total_successes": 0,
