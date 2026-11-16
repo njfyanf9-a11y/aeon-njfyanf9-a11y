@@ -21,7 +21,7 @@
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
   "memory-flush": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-15T02:49:28Z",
     "total_runs": 19,
     "total_successes": 0,
@@ -29,7 +29,7 @@
     "consecutive_failures": 19,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-15T02:48:52Z"
+    "last_dispatch": "2026-11-16T01:08:07Z"
   },
   "fork-fleet": {
     "last_status": "failed",
@@ -43,7 +43,7 @@
     "last_dispatch": "2026-11-09T19:43:37Z"
   },
   "spawn-instance": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-15T16:46:10Z",
     "total_runs": 50,
     "total_successes": 0,
@@ -51,7 +51,7 @@
     "consecutive_failures": 50,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-15T16:45:45Z"
+    "last_dispatch": "2026-11-16T01:08:07Z"
   },
   "fleet-control": {
     "last_dispatch": "2026-11-15T16:45:45Z",
