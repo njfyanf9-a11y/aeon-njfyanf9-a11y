@@ -43,12 +43,12 @@
     "last_dispatch": "2026-11-16T17:35:03Z"
   },
   "spawn-instance": {
-    "last_status": "dispatched",
-    "last_failed": "2026-11-18T00:55:20Z",
-    "total_runs": 57,
+    "last_status": "failed",
+    "last_failed": "2026-11-18T08:01:07Z",
+    "total_runs": 58,
     "total_successes": 0,
-    "total_failures": 57,
-    "consecutive_failures": 57,
+    "total_failures": 58,
+    "consecutive_failures": 58,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
     "last_dispatch": "2026-11-18T08:00:39Z"
