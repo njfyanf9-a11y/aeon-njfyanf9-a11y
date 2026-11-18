@@ -21,12 +21,12 @@
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
   "memory-flush": {
-    "last_status": "dispatched",
-    "last_failed": "2026-11-17T01:01:57Z",
-    "total_runs": 21,
+    "last_status": "failed",
+    "last_failed": "2026-11-18T00:55:32Z",
+    "total_runs": 22,
     "total_successes": 0,
-    "total_failures": 21,
-    "consecutive_failures": 21,
+    "total_failures": 22,
+    "consecutive_failures": 22,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
     "last_dispatch": "2026-11-18T00:54:51Z"
