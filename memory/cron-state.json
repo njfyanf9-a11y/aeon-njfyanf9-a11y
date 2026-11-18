@@ -55,12 +55,12 @@
   },
   "fleet-control": {
     "last_dispatch": "2026-11-18T17:02:33Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-11-17T18:06:55Z",
-    "total_runs": 33,
+    "last_status": "failed",
+    "last_failed": "2026-11-18T17:03:16Z",
+    "total_runs": 34,
     "total_successes": 0,
-    "total_failures": 33,
-    "consecutive_failures": 33,
+    "total_failures": 34,
+    "consecutive_failures": 34,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
