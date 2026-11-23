@@ -1,6 +1,6 @@
 {
   "auto-merge": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-22T15:32:18Z",
     "total_runs": 27,
     "total_successes": 0,
@@ -8,7 +8,7 @@
     "consecutive_failures": 27,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-22T15:31:58Z"
+    "last_dispatch": "2026-11-23T21:40:58Z"
   },
   "auto-workflow": {
     "last_status": "failed",
@@ -32,7 +32,7 @@
     "last_dispatch": "2026-11-23T01:38:27Z"
   },
   "fork-fleet": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-16T17:35:55Z",
     "total_runs": 6,
     "total_successes": 0,
@@ -40,10 +40,10 @@
     "consecutive_failures": 6,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-16T17:35:03Z"
+    "last_dispatch": "2026-11-23T21:40:58Z"
   },
   "spawn-instance": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-23T09:44:54Z",
     "total_runs": 71,
     "total_successes": 0,
@@ -51,11 +51,11 @@
     "consecutive_failures": 71,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-23T09:44:28Z"
+    "last_dispatch": "2026-11-23T21:40:58Z"
   },
   "fleet-control": {
-    "last_dispatch": "2026-11-23T09:44:28Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-23T21:40:58Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-23T09:44:55Z",
     "total_runs": 41,
     "total_successes": 0,
@@ -65,8 +65,8 @@
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
   "narrative-convergence": {
-    "last_dispatch": "2026-11-22T15:31:58Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-23T21:40:58Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-22T15:32:28Z",
     "total_runs": 27,
     "total_successes": 0,
@@ -87,8 +87,8 @@
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
   "aeon-update": {
-    "last_dispatch": "2026-11-16T17:35:03Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-11-23T21:40:58Z",
+    "last_status": "dispatched",
     "last_failed": "2026-11-16T17:35:47Z",
     "total_runs": 5,
     "total_successes": 0,
@@ -117,6 +117,6 @@
     "consecutive_failures": 4,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token",
-    "last_dispatch": "2026-11-16T17:35:03Z"
+    "last_dispatch": "2026-11-23T21:40:58Z"
   }
 }
