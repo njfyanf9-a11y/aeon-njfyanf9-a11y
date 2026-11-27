@@ -66,12 +66,12 @@
   },
   "narrative-convergence": {
     "last_dispatch": "2026-11-27T19:54:56Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-11-26T19:52:41Z",
-    "total_runs": 31,
+    "last_status": "failed",
+    "last_failed": "2026-11-27T19:55:35Z",
+    "total_runs": 32,
     "total_successes": 0,
-    "total_failures": 31,
-    "consecutive_failures": 31,
+    "total_failures": 32,
+    "consecutive_failures": 32,
     "success_rate": 0,
     "last_error": "claude: Failed to authenticate. API Error: 401 Invalid bearer token"
   },
